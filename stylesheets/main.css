@@ -1,0 +1,107 @@
+#MainHeader {
+  height: 50px;
+  width: 100%;
+  background-color: red;
+  font-size: 40px;
+  color: white;
+}
+
+#Login {
+  color: white;
+  font-size: 18px;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  text-decoration: underline;
+}
+
+#BuildingArt {
+  color: white;
+  background-color: gray;
+  height: 25px;
+  width: 100%;
+  font-size: 18px;
+  text-align: right;
+  text-decoration: underline;
+}
+
+#MainImage {
+  height: 350px;
+  width: 1000px;
+  position: absolute;
+  top: 100px;
+  left: 20px
+}
+
+#DenverArtMuseum {
+  font-size: 30px;
+  font-weight: bold;
+  position: absolute;
+  left: 25px;
+  bottom: 300px;
+}
+
+#Latin {
+  font-size: 16px;
+  position: absolute;
+  left: 25px;
+  bottom: 110px;
+  max-width: 1000px
+}
+
+#LarimerSquare {
+  font-size: 20px;
+  position: absolute;
+  top: 100px;
+  right: 210px;
+  font-weight: bold
+}
+
+#LSPhoto {
+  position: absolute;
+  top: 125px;
+  right: 50px;
+  height: 150px;
+  width: 300px;
+}
+
+#MilleniumBridge {
+  font-size: 20px;
+  position: absolute;
+  top: 300px;
+  right: 200px;
+  font-weight: bold
+}
+
+#MBPhoto {
+  position: absolute;
+  top: 330px;
+  right: 50px;
+  height: 150px;
+  width: 300px;
+}
+
+#MollyBrownHouse {
+  font-size: 20px;
+  position: absolute;
+  top: 500px;
+  right: 180px;
+  font-weight: bold
+}
+
+#MBHPhoto {
+  position: absolute;
+  top: 525px;
+  right: 50px;
+  height: 150px;
+  width: 300px;
+}
+
+#Footer {
+  position: absolute;
+  background-color: Darkgray;
+  color: white;
+  height: 60px;
+  width: 100%;
+  bottom: 0px;
+}
